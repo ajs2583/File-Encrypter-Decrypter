@@ -32,8 +32,12 @@ This project provides a practical introduction to:
 - The concept of encryption and decryption.
 - The Caesar Cipher algorithm and its limitations.
 
-# Further Exploration:
+# Authors
+- Andrew Sliva
 
+# Further Exploration:
 Explore more advanced encryption algorithms and libraries.
 Implement unit tests for the program's functionality.
 Feel free to contribute or modify the code for further learning!
+
+
